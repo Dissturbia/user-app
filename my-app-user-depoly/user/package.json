@@ -1,0 +1,29 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "homepage":"http://dissturbia.github.io/my-app-user",
+  "description": "",
+  "main": "index.js",
+  
+    "scripts": {
+      "build": "next build",
+      "export": "next export"
+    },
+  
+  
+  
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+
+}

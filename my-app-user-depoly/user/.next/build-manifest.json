@@ -1,0 +1,29 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/index": [
+      "static/runtime/webpack-f012b0c56e51d71ffc22.js",
+      "static/chunks/commons.9f6ecac971d6406541ce.js",
+      "static/runtime/main-87db4d421ed31d28066e.js"
+    ],
+    "/next.config": [
+      "static/runtime/webpack-f012b0c56e51d71ffc22.js",
+      "static/runtime/main-87db4d421ed31d28066e.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-f012b0c56e51d71ffc22.js",
+      "static/chunks/commons.9f6ecac971d6406541ce.js",
+      "static/runtime/main-87db4d421ed31d28066e.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-f012b0c56e51d71ffc22.js",
+      "static/chunks/commons.9f6ecac971d6406541ce.js",
+      "static/runtime/main-87db4d421ed31d28066e.js"
+    ],
+    "/": [
+      "static/runtime/webpack-f012b0c56e51d71ffc22.js",
+      "static/chunks/commons.9f6ecac971d6406541ce.js",
+      "static/runtime/main-87db4d421ed31d28066e.js"
+    ]
+  }
+}

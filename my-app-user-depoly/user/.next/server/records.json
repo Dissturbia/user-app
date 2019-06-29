@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/index.js": 0,
+      "multi private-next-pages/next.config.js": 1,
+      "multi next/dist/pages/_app": 2,
+      "multi next/dist/pages/_error": 3,
+      "multi next/dist/pages/_document": 4
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/bobXAtxrUZ7qNfQSt4qgV/pages/_app.js": 0,
+      "static/bobXAtxrUZ7qNfQSt4qgV/pages/_document.js": 1,
+      "static/bobXAtxrUZ7qNfQSt4qgV/pages/_error.js": 2,
+      "static/bobXAtxrUZ7qNfQSt4qgV/pages/index.js": 3,
+      "static/bobXAtxrUZ7qNfQSt4qgV/pages/next.config.js": 4
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}
